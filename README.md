@@ -1,18 +1,18 @@
 # Código y Demo
 El código de este proyecto es privado. Puedes probar esta aplicación sin ser estudiante de la Universidad Nacional Pedro Henríquez Ureña con el siguiente [link](https://unphu-planeador-calendario-academico.onrender.com/pages?TEST=true)
 
-# Pantallas
-![](/assets/1.png)
-![](/assets/2.png)
-![](/assets/3.png)
-![](/assets/4.png)
-
 # UNPHU | Planeador Académico
 Esta aplicación web permite a los estudiantes de la [Universidad Pedro Henríquez Ureña (UNPHU)](https://unphu.edu.do) planificar de manera sencilla e informada su selección de materias para los próximos períodos académicos. Con más de 200 usuarios registrados y horarios planificados en los dos últimos períodos académicos del año 2024, esta herramienta ha demostrado su utilidad.
 
 El desarrollo de esta aplicación fue un esfuerzo conjunto entre mi hermano [Jorge Lorenzo](https://github.com/JorgelRight34) y yo. Implementamos la solución utilizando Django y Django Rest Framework para el backend, React y Redux para el frontend, PostgreSQL como base de datos y Redis como sistema de caché.
 
 Cabe destacar que la universidad no patrocinó este proyecto ni intervino en su desarrollo. La información de estudiantes y horarios se obtuvo a través de su API pública.
+
+# Pantallas
+![](/assets/1.png)
+![](/assets/2.png)
+![](/assets/3.png)
+![](/assets/4.png)
 
 # Contexto
 En la [UNPHU](https://unphu.edu.do), los estudiantes tienen un período de selección de materias que dura aproximadamente una semana antes de iniciar el nuevo ciclo académico. A cada facultad se le asigna un día específico para que sus estudiantes inicien su selección de materias.
