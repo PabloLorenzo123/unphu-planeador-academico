@@ -1,5 +1,5 @@
 # Código y Demo
-El código de este proyecto es privado. Puedes probar esta aplicación sin ser estudiante de la Universidad Nacional Pedro Henríquez Ureña con el siguiente [link](https://unphu-planeador-calendario-academico.onrender.com/pages?TEST=true)
+El código de este proyecto es privado. Puedes probar esta aplicación sin ser estudiante de la Universidad Nacional Pedro Henríquez Ureña con el siguiente [link](https://unphu-planeador-calendario-academico.onrender.com/pages?TEST=true).
 
 # UNPHU | Planeador Académico
 Esta aplicación web permite a los estudiantes de la [Universidad Pedro Henríquez Ureña (UNPHU)](https://unphu.edu.do) planificar de manera sencilla e informada su selección de materias para los próximos períodos académicos. Con más de 200 usuarios registrados y horarios planificados en los dos últimos períodos académicos del año 2024, esta herramienta ha demostrado su utilidad.
