@@ -4,7 +4,7 @@ El código de este proyecto es privado. Puedes probar esta aplicación sin ser e
 # UNPHU | Planeador Académico
 Esta aplicación web permite a los estudiantes de la [Universidad Pedro Henríquez Ureña (UNPHU)](https://unphu.edu.do) planificar de manera sencilla e informada su selección de materias para los próximos períodos académicos. Con más de 200 usuarios registrados y horarios planificados en los dos últimos períodos académicos del año 2024, esta herramienta ha demostrado su utilidad.
 
-El desarrollo de esta aplicación fue un esfuerzo conjunto entre mi hermano [Jorge Lorenzo](https://www.linkedin.com/in/jorge-lorenzo-aa79042a7/) y yo. Implementamos la solución utilizando Django y Django Rest Framework para el backend, React y Redux para el frontend, PostgreSQL como base de datos y Redis como sistema de caché.
+El desarrollo de esta aplicación fue un esfuerzo conjunto entre mi hermano [Jorge Lorenzo](https://github.com/JorgelRight34) y yo. Implementamos la solución utilizando Django y Django Rest Framework para el backend, React y Redux para el frontend, PostgreSQL como base de datos y Redis como sistema de caché.
 
 Cabe destacar que la universidad no patrocinó este proyecto ni intervino en su desarrollo. La información de estudiantes y horarios se obtuvo a través de su API pública.
 
